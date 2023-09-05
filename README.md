@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @jonasprechtl
-- 👀 I’m interested in Programming and everything that has anything to do with Microsoft.
-- 🌱 I’m currently learning how Oauth2 works indepth.
-- 💞️ I’m currently not looking for anything to collaborate on, cause I am very busy with work.
-- 📫 You can reach me under **jonas@endermail.de**
+# Introduction (English)
+
+Hello there! I'm Jonas Prechtl, a 21-year-old specializing in System Integration. I'm proud to be self-employed and the owner of "Prechtl CI GmbH," a business based in Germany.
+
+## About Me
+
+I'm passionate about technology and its integration into systems. With a keen eye for detail and a problem-solving mindset, I've dedicated myself to mastering the intricacies of system integration.
+
+## Self-Employment and Business
+
+As the founder of "Prechtl CI GmbH," I've taken the entrepreneurial path to provide top-notch system integration solutions. My business is situated in Germany and reflects my commitment to excellence and innovation.
+
+## Contact Information
+
+Feel free to get in touch with me via email at jonas@prechtl-ci.de. I'm always open to discussions, collaborations, and sharing ideas.
+
+## Online Presence
+
+For more insights into my work and interests, you can visit my personal website: [prechtl-ci.de](https://prechtl-ci.de). It's a platform where I showcase my journey and expertise in system integration.
+
+## Our Flagship: AssetDog
+
+Within the umbrella of Prechtl CI GmbH, we've nurtured a subsidiary that focuses on software development and hosting. Our standout product is AssetDog, an ingenious software solution designed to automate network documentation. It goes the extra mile by alerting you in real-time when any network component goes offline.
+
+Curious to learn more about AssetDog? Explore further at [assetdog.net](https://assetdog.net)!
+
 
 <!---
 jonasprechtl/jonasprechtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

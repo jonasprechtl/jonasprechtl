@@ -1,4 +1,4 @@
-# Introduction (English)
+# Introduction
 
 Hello there! I'm Jonas Prechtl, a 21-year-old specializing in System Integration. I'm proud to be self-employed and the owner of "Prechtl CI GmbH," a business based in Germany.
 

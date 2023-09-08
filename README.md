@@ -16,7 +16,7 @@ Feel free to get in touch with me via email at jonas@prechtl-ci.de. I'm always o
 
 ## Online Presence
 
-For more insights into my company, services, and interests, please visit my business website: prechtl-ci.de. There, you'll find information about my business and the services offered.
+For more insights into my company, services, and interests, please visit my business website: [prechtl-ci.de](https://prechtl-ci.de). There, you'll find information about my business and the services offered.
 
 ## Our Flagship: AssetDog
 

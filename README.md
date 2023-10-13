@@ -22,7 +22,7 @@ For more insights into my company, services, and interests, please visit my busi
 
 Within the umbrella of Prechtl CI GmbH, we've nurtured a subsidiary that focuses on software development and hosting. Our standout product is AssetDog, an ingenious software solution designed to automate network documentation. It goes the extra mile by alerting you in real-time when any network component goes offline.
 
-Curious to learn more about AssetDog? Explore further at [https://assetdog.net](assetdog.net)!
+Curious to learn more about AssetDog? Explore further at [assetdog.net](https://assetdog.net)!
 
 
 <!---

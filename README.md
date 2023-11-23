@@ -18,13 +18,6 @@ Feel free to get in touch with me via email at jonas@prechtl-ci.de. I'm always o
 
 For more insights into my company, services, and interests, please visit my business website: [prechtl-ci.de](https://prechtl-ci.de). There, you'll find information about my business and the services offered.
 
-## Our Flagship: AssetDog
-
-Within the umbrella of Prechtl CI GmbH, we've nurtured a subsidiary that focuses on software development and hosting. Our standout product is AssetDog, an ingenious software solution designed to automate network documentation. It goes the extra mile by alerting you in real-time when any network component goes offline.
-
-Curious to learn more about AssetDog? Explore further at [assetdog.net](https://assetdog.net)!
-
-
 <!---
 jonasprechtl/jonasprechtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
